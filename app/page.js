@@ -9,7 +9,7 @@ export default function LandingPage() {
 
       <div className="relative flex flex-1 flex-col items-center justify-center px-6 text-center">
         <span className="font-mono text-xs uppercase tracking-[0.25em] text-mist">
-          FutureLetter
+          Future Letter
         </span>
 
         <h1 className="mt-6 max-w-2xl font-display text-4xl leading-tight text-paper sm:text-5xl">
